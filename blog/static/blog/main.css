@@ -1,5 +1,6 @@
 body {
-    background: #fafafa;
+    background-image: url('download.png');
+    background-size: cover;
     color: #333333;
     margin-top: 5rem;
   }
@@ -13,7 +14,7 @@ body {
   }
   
   .bg-steel {
-    background-color: #5f788a;
+    background-image: linear-gradient(100deg,#185abc,#4285f4,#185abc);
   }
   
   .site-header .navbar-nav .nav-link {
